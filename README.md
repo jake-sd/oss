@@ -10,4 +10,17 @@
 Open Source Samples
 
 author: http://twitter.com/jsequential
+
 music: http://soundcloud.com/machine-drift
+
+### March 8 2015
+
+Real deal Roland TR-707 run through:
+
+- FMR Audio - Really Nice Compressor (RNC 1773)
+- AYA - Drivesta Fuzz (Japan Exclusive!)
+- Alesis - Bitrman
+- Sonny Designs - Bluebeard Fuzz (DIY version of the US Muff)
+- Death By Audio - Fuzz War
+- Real Deal Russian Big Muff (early 90's model)
+- ZVex - Fuzzzz Factory

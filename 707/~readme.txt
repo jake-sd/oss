@@ -9,7 +9,7 @@
 
 Scrap those played out 707 sounds for some fresh mangled shit.
 
-Real deal Roland TR-707 and run through:
+Real deal Roland TR-707 run through:
 
 FMR Audio - Really Nice Compressor (RNC 1773)
 AYA - Drivesta Fuzz (Japan Exclusive!)
