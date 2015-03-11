@@ -11,7 +11,11 @@ Open Source Samples
 
 ### March 8 2015
 
-Real deal Roland TR-707 run through:
+Roland TR-707 Samples
+
+![alt tag](https://github.com/jake-sd/oss/blob/master/707/707-small.jpg)
+
+run through:
 
 - FMR Audio - Really Nice Compressor (RNC 1773)
 - AYA - Drivesta Fuzz (Japan Exclusive!)
