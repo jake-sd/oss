@@ -25,4 +25,20 @@ run through:
 - Real Deal Russian Big Muff (early 90's model)
 - ZVex - Fuzzzz Factory 
 
+***** R100 SAMPLES *****
+
+Classic Industrial Drum Machine jacked up with some mean stomp boxes.
+
+Real deal Kawai R100 run through:
+
+- Original Factory Samples
+- Fat Panda - Custom Built Octave Fuzz by Kim Reid (Screen Vinyl Image)
+- Fender Blender - Fender's super maxed out fuzz box
+- DigiTech Metal Master - "Heavy Metal Distortion"
+- Famulus - Red Witch Thick and Creamy Overdrive
+- Death By Audio - Robot aka "wtf is happening rn"
+- Way Huge Swollen Pickle - aka Tiger Fuzz
+- Colorsound - ToneBender - Yes the real deal original circuit badass
+
+
 author: http://twitter.com/jsequential
