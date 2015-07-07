@@ -9,9 +9,9 @@
 ```
 Open Source Samples
 
-### March 8 2015
+### Roland TR-707 Sampled Thru Stomp Boxes
 
-Roland TR-707 Samples
+Includes Ableton Live Pack drum rack w/ each collection on it's own macro knob for quick access!
 
 ![alt tag](https://github.com/jake-sd/oss/blob/master/707/707-small.jpg)
 
