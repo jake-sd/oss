@@ -9,6 +9,8 @@
 ```
 Open Source Samples
 
+Go forth and make music w/o coughing up a bunch of cash..
+
 ### Kawai R100 Samples
 
 Includes Ableton Live Pack drum rack w/ each collection on it's own macro knob for quick access!
